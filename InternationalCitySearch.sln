@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternationalCitySearch.Api", "InternationalCitySearch.Api\InternationalCitySearch.Api.csproj", "{DDEF39B9-1C54-44C2-8436-218FCAEFF2B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternationalCitySearch.Models", "InternationalCitySearch.Models\InternationalCitySearch.Models.csproj", "{0763541F-CE60-4A75-AA93-6EB2D1D23B99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternationalCitySearch.Repository", "InternationCitySearch.Repository\InternationalCitySearch.Repository.csproj", "{9B3F3F82-F366-4560-A2B9-351BB169C1DA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternationalCitySearch.Services", "InternationalCitySearch.Services\InternationalCitySearch.Services.csproj", "{5706677A-38DF-4A93-A7A9-807BDA122509}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternationalCitySearch.Configuration", "InternationalCitySearch.Configuration\InternationalCitySearch.Configuration.csproj", "{C575F93C-5B5B-409F-B888-44CAD8047724}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternationalCitySearch.Services.Tests", "InternationalCitySearch.Tests\InternationalCitySearch.Services.Tests.csproj", "{01237C0F-6F5B-4F18-B101-63FE0F22FE6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDEF39B9-1C54-44C2-8436-218FCAEFF2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEF39B9-1C54-44C2-8436-218FCAEFF2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEF39B9-1C54-44C2-8436-218FCAEFF2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEF39B9-1C54-44C2-8436-218FCAEFF2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0763541F-CE60-4A75-AA93-6EB2D1D23B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0763541F-CE60-4A75-AA93-6EB2D1D23B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0763541F-CE60-4A75-AA93-6EB2D1D23B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0763541F-CE60-4A75-AA93-6EB2D1D23B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3F3F82-F366-4560-A2B9-351BB169C1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3F3F82-F366-4560-A2B9-351BB169C1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3F3F82-F366-4560-A2B9-351BB169C1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3F3F82-F366-4560-A2B9-351BB169C1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5706677A-38DF-4A93-A7A9-807BDA122509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5706677A-38DF-4A93-A7A9-807BDA122509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5706677A-38DF-4A93-A7A9-807BDA122509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5706677A-38DF-4A93-A7A9-807BDA122509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C575F93C-5B5B-409F-B888-44CAD8047724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C575F93C-5B5B-409F-B888-44CAD8047724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C575F93C-5B5B-409F-B888-44CAD8047724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C575F93C-5B5B-409F-B888-44CAD8047724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01237C0F-6F5B-4F18-B101-63FE0F22FE6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01237C0F-6F5B-4F18-B101-63FE0F22FE6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01237C0F-6F5B-4F18-B101-63FE0F22FE6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01237C0F-6F5B-4F18-B101-63FE0F22FE6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DC09D3C-2C98-448D-9159-FFB71F68612D}
+	EndGlobalSection
+EndGlobal
